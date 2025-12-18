@@ -1,7 +1,7 @@
 # Hero duel game "Superheroes"
 A simple game, where each player selects a hero and engages in a turn-based duel. This is my final project for [C# Course - Fast Start (Programming for Beginners)](https://eduj.pl/produkt/kurs_csharp_szybki_start_programowanie_dla_poczatkujacych)
 
-![Image](https://github.com/user-attachments/assets/fbf65144-97ae-4516-8e65-0a4cd76c3452)
+![Superheroes](https://raw.githubusercontent.com/98Miquelle11/superheroes/master/images/Superheroes.gif)
 
 ## Tech stack
 * C# version 13.0,
@@ -17,5 +17,6 @@ A simple game, where each player selects a hero and engages in a turn-based duel
 
 ## How to run
 1. Clone the repository - open your terminal and run: `git clone https://github.com/98Miquelle11/superheroes.git`
-2. If you just want to run a game, open *publish/Game.exe*
-3. If you want to open the project, open the solution file *Game.sln* in **Visual Studio 2022 (or later)**, go to **Build > Build Solution**, then click **Start** to launch a game.
+2. *Opcjonally*: After cloning the repository you can delete **images** folder - it is for this README cause only.
+3. If you just want to run a game, open *publish/Game.exe*
+4. If you want to open the project, open the solution file *Game.sln* in **Visual Studio 2022 (or later)**, go to **Build > Build Solution**, then click **Start** to launch a game.
